@@ -1,0 +1,14 @@
+C:\WEB\single delegate,multi delegate\single delegate,multi delegate\bin\Debug\net8.0\single delegate,multi delegate.exe
+C:\WEB\single delegate,multi delegate\single delegate,multi delegate\bin\Debug\net8.0\single delegate,multi delegate.deps.json
+C:\WEB\single delegate,multi delegate\single delegate,multi delegate\bin\Debug\net8.0\single delegate,multi delegate.runtimeconfig.json
+C:\WEB\single delegate,multi delegate\single delegate,multi delegate\bin\Debug\net8.0\single delegate,multi delegate.dll
+C:\WEB\single delegate,multi delegate\single delegate,multi delegate\bin\Debug\net8.0\single delegate,multi delegate.pdb
+C:\WEB\single delegate,multi delegate\single delegate,multi delegate\obj\Debug\net8.0\single delegate,multi delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\WEB\single delegate,multi delegate\single delegate,multi delegate\obj\Debug\net8.0\single delegate,multi delegate.AssemblyInfoInputs.cache
+C:\WEB\single delegate,multi delegate\single delegate,multi delegate\obj\Debug\net8.0\single delegate,multi delegate.AssemblyInfo.cs
+C:\WEB\single delegate,multi delegate\single delegate,multi delegate\obj\Debug\net8.0\single delegate,multi delegate.csproj.CoreCompileInputs.cache
+C:\WEB\single delegate,multi delegate\single delegate,multi delegate\obj\Debug\net8.0\single delegate,multi delegate.dll
+C:\WEB\single delegate,multi delegate\single delegate,multi delegate\obj\Debug\net8.0\refint\single delegate,multi delegate.dll
+C:\WEB\single delegate,multi delegate\single delegate,multi delegate\obj\Debug\net8.0\single delegate,multi delegate.pdb
+C:\WEB\single delegate,multi delegate\single delegate,multi delegate\obj\Debug\net8.0\single delegate,multi delegate.genruntimeconfig.cache
+C:\WEB\single delegate,multi delegate\single delegate,multi delegate\obj\Debug\net8.0\ref\single delegate,multi delegate.dll
